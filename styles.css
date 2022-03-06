@@ -2,3 +2,6 @@ body{
     background-color: black;
     color: white;
 }
+.test{
+    border: 9px blue solid;
+}
